@@ -17,7 +17,7 @@ Time spent: **X** hours spent in total
         1.save the image file with the javascript injection code.
         2.upload to the wordpress image attachment.
   - [x] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
