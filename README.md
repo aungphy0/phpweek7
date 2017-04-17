@@ -23,7 +23,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types:XSS
     - Tested in version:4.2.2
     - Fixed in version:4.2.4
-  - [X] GIF Walkthrough: 
+  - [X] GIF Walkthrough: <img src='http://i.imgur.com/f8sF4vX.gif'>
   - [X] Steps to recreate:
         go to Dashboard and then go to menu bar option and type XSS code in one of the tag.
   - [X] Affected source code:
