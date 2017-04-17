@@ -7,7 +7,7 @@ Time spent: **X** hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Vulnerability Name or ID
+1. Authenticated Cross-Site Scripting (XSS) via Media File Metadata
   - [x] Summary: 
     - Vulnerability types: Cross Site Scripting(XSS)
     - Tested in version: WordPress 4.2.4
