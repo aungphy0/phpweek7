@@ -1,25 +1,25 @@
 # phpweek7
 # Project 7 - WordPress Pentesting
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
 ## Pentesting Report
 
 1. Authenticated Cross-Site Scripting (XSS) via Media File Metadata
-  - [x] Summary: 
+  - [x] Summary:
     - Vulnerability types: Cross Site Scripting(XSS)
     - Tested in version: WordPress 4.2.4
     - Fixed in version: WordPress 4.2.10
-  - [x] GIF Walkthrough: <img src='http://i.imgur.com/K24lZWz.gif'> 
-  - [x] Steps to recreate: 
+  - [x] GIF Walkthrough: <img src='http://i.imgur.com/K24lZWz.gif'>
+  - [x] Steps to recreate:
         1.save the image file with the javascript injection code.
         2.upload to the wordpress image attachment.
   - [x] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
 1. Nav Menu Title Cross-Site Scripting (XSS)
-  - [X] Summary: 
+  - [X] Summary:
     - Vulnerability types:XSS
     - Tested in version:4.2.2
     - Fixed in version:4.2.4
@@ -29,32 +29,32 @@ Time spent: **X** hours spent in total
   - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/changeset/33541)
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [ ] Summary:
     - Vulnerability types:
     - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+    - Fixed in version:
+  - [ ] GIF Walkthrough:
+  - [ ] Steps to recreate:
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [ ] Summary:
     - Vulnerability types:
     - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+    - Fixed in version:
+  - [ ] GIF Walkthrough:
+  - [ ] Steps to recreate:
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [ ] Summary:
     - Vulnerability types:
     - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+    - Fixed in version:
+  - [ ] GIF Walkthrough:
+  - [ ] Steps to recreate:
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
 ## Assets
 
